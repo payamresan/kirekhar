@@ -26,13 +26,13 @@ local function enable_channel(receiver, to_id)
 	end
 
 	if _config.disabled_channels[receiver] == nil then
-		return 'Bot was on :D'
+		return 'ｔｉｍｓａｒ ｉｓ ｏｎｌｉｎｅ😎'
 	end
 	
 	_config.disabled_channels[receiver] = false
 
 	save_config()
-	return 'Bot was on :D'
+	return 'ｔｉｍｓａｒ ｉｓ ｏｎｌｉｎｅ😎'
 end
 
 local function disable_channel(receiver, to_id)
@@ -43,7 +43,7 @@ local function disable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = true
 
 	save_config()
-	return 'Bot was off ;-/'
+	return 'ｔｉｍｓａｒ ｉｓ ｏｆｆ ｎｏｗ😑'
 end
 
 local function pre_process(msg)
