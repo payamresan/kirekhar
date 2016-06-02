@@ -1,4 +1,4 @@
-Self-Bot V2
+Self-Bot V2 by ali timsar :D
 ============
 
 A Telegram Bot based on [DBTeam bot](https://github.com/Josepdal/DBTeam).
@@ -18,18 +18,15 @@ cd Self-Bot
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
+و در اخر کس عمتون 
 
-BeatBot Team
+ultra team
 -----------------
 
-[Amirho3inf](http://telegram.me/amirho3inf)<br>
-[NariMan Master](http://telegram.me/nawr_i_man)<br>
-[YellowHat](http://telegram.me/yellowhat)<br>
-[FastReaCtor](http://telegram.me/fastreactor)<br>
-[ThisIsAmirh](http://telegram.me/thisisamirh)<br>
-[Mr.Puker](http://telegram.me/puker)<br>
+[ali timsar :D](http://telegram.me/pokeram_baw)<br>
 
-BeatBot Team Channel
+
+ultra team channel 
 -----------------
 
-[BeatBot Team](http://telegram.me/beatbot_team)
+[ultra team](http://telegram.me/ultra_channel)
